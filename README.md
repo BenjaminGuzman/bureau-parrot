@@ -1,4 +1,4 @@
-# bureau-custom
+# bureau-parrot
 
 Theme for [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh).
 
