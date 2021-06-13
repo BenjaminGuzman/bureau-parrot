@@ -10,4 +10,4 @@ Based on the original [bureau theme](https://github.com/robbyrussell/oh-my-zsh/b
 
 ![Screenshot](screenshot.png)
 
-Inspired on the Parrot Security default terminal prompt.
+Inspired on the [Parrot Security](https://www.parrotsec.org/) default terminal prompt.
