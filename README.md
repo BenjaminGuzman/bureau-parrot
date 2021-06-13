@@ -9,3 +9,5 @@ Based on the original [bureau theme](https://github.com/robbyrussell/oh-my-zsh/b
 ![Screenshot](screenshot1.png)
 
 ![Screenshot](screenshot.png)
+
+Inspired on the Parrot Security default terminal prompt.
