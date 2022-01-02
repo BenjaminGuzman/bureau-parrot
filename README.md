@@ -11,3 +11,18 @@ Based on the original [bureau theme](https://github.com/robbyrussell/oh-my-zsh/b
 ![Screenshot](screenshot.png)
 
 Inspired on the [Parrot Security](https://www.parrotsec.org/) default terminal prompt.
+
+## Usage
+
+1. Download the theme
+
+```bash
+wget -O ~/.oh-my-zsh/themes/bureau-parrot.zsh-theme https://raw.githubusercontent.com/BenjaminGuzman/bureau-parrot/master/bureau-parrot.zsh-theme
+```
+
+2. Enable the theme
+
+```bash
+sed -i 's/^ZSH_THEME=".*"$/ZSH_THEME="bureau-parrot"/' ~/.zshrc
+```
+
